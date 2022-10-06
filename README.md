@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Avazbek</h1>
-<h3 align="center">A passionate frontend developer from Uzbekistan</h3>
+<h3 align="center">A powerfull [ WorksHorse ] Web Developer from Uzbekistan</h3>
 
 <img align="right"  width="400" src="https://i.giphy.com/media/RbDKaczqWovIugyJmW/giphy.webp" alt="">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avaz-tech&label=Profile%20views&color=0e75b6&style=flat" alt="avaz-tech" /> </p>
