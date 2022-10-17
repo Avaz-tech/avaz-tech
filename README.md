@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Avazbek</h1>
 <h3 align="center"> Web Developer from Uzbekistan</h3>
 
-<img align="right"  height="409" width="420" src="https://webcreatorspro.com/wp-content/uploads/2022/03/development-4536630_1920.png" alt="">
+<img align="right"  height="389" width="400" src="https://webcreatorspro.com/wp-content/uploads/2022/03/development-4536630_1920.png" alt="">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avaz-tech&label=Profile%20views&color=0e75b6&style=flat" alt="avaz-tech" /> </p>
 
 - 🔭 I’m currently working on [Movie-Website](https://github.com/Avaz-tech/Movie-site)
