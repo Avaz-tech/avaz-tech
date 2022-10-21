@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently improving **React Skills**
 
-- 💬 Ask me about **Javascript,React**
+- 💬 Ask me about **Javascript**
 
 - 📫 How to reach me **avazravshan0@gmail.com**
 
