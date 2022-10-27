@@ -17,9 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/avazbek ravshanov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avazbek ravshanov" height="30" width="40" /></a>
-  
-<a href="https://www.facebook.com/avazbek.ravshanov.9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="avazbek ravshanov" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/avazbek ravshanov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avazbek ravshanov" height="30" width="40" /></a><a href="https://www.facebook.com/avazbek.ravshanov.9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="avazbek ravshanov" height="30" width="40" /></a>
   
 <a href="https://instagram.com/ben_79_62" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ben_79_62" height="30" width="40" /></a>
 </p>
