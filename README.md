@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **avazravshan0@gmail.com**
 
-- 📄 Know about my experiences [https://1drv.ms/b/s!AlvRSNUZzqSZlGK0HFwHgvwlgB_c](https://1drv.ms/b/s!AlvRSNUZzqSZlGK0HFwHgvwlgB_c)
+- 📄 Know about my experiences [https://1drv.ms/b/s!AlvRSNUZzqSZlGK0HFwHgvwlgB_c](https://1drv.ms/b/s!AlvRSNUZzqSZlGVBE-qIzZCWrN9j?e=Nxa3cA)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
