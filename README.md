@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Entertainment-Website](https://github.com/Avaz-tech/Movie-site)
 
-- 🌱 I’m currently improving **React Skills**
+- 🌱 I’m currently improving **C++**
 
 - 💬 Ask me about **Javascript**
 
