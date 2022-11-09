@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avaz-tech&label=Profile%20views&color=0e75b6&style=flat" alt="avaz-tech" /> </p>
 
-- 🔭 I’m currently working on [Entertainment-Website](https://github.com/Avaz-tech/Movie-site)
+- 🔭 I’m currently working on [My Porfolio Website](https://github.com/Avaz-tech/Movie-site)
 
 - 🌱 I’m currently improving **C++**
 
