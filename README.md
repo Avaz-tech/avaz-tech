@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Avazbek</h1>
-<h3 align="center"> Outstanding Web Developer from Uzbekistan</h3>
+<h3 align="center"> Outstanding Web Developer </h3>
 
 <img align="right"  height="379" width="390" src="https://webcreatorspro.com/wp-content/uploads/2022/03/development-4536630_1920.png" alt="">
 
