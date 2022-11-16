@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Avazbek</h1>
 <h3 align="center"> Outstanding Web Developer </h3>
 
-<img align="right"  height="379" width="390" src="https://webcreatorspro.com/wp-content/uploads/2022/03/development-4536630_1920.png" alt="">
+<img align="right"  height="379" width="390" src="https://i.pinimg.com/originals/16/fe/7e/16fe7e7fb6eebb3087b6dc418748ee56.gif" alt="">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avaz-tech&label=Profile%20views&color=0e75b6&style=flat" alt="avaz-tech" /> </p>
 
