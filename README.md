@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [My Porfolio Website](https://Avaz-tech.github.io)
 
-- 🌱 I’m currently improving **React skills**
+- 🌱 I’m currently improving **OOP skills**
 
 - 💬 Ask me about **Algorithms**
 
