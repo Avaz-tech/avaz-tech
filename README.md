@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently improving **OOP skills**
 
-- 💬 Ask me about **Javascrip**
+- 💬 Ask me about **Javascript**
 
 - 📫 How to reach me **avazravshan0@gmail.com**
 
