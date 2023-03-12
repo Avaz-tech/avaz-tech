@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [E-Library Website](https://Avaz-tech.github.io/E-Library/)
 
-- 🌱 I’m currently improving **OOP skills**
+- 🌱 I’m currently improving **Bootstrap skills**
 
 - 💬 Ask me about **Javascript**
 
