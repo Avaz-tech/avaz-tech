@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Avazbek</h1>
+<h1 align="center">Hola 👋, I'm Avazbek</h1>
 <h3 align="center"> Outstanding Web Developer </h3>
 
 <img align="right"  height="339" width="350" src="https://i.pinimg.com/originals/16/fe/7e/16fe7e7fb6eebb3087b6dc418748ee56.gif" alt="">
