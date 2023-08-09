@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avaz-tech&label=Profile%20views&color=0e75b6&style=flat" alt="avaz-tech" /> </p>
 
-- 🔭 I’m currently working on [ Secret Project.. ](https://Avaz-tech.github.io/ebook-react/)
+- 🔭 I’m currently working on [ Secret Project.. ]
 
 - 🌱 I’m currently improving **Project Management skills**
 
