@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [ Secret Project.. ]
 
-- 🌱 I’m currently improving **Project Management skills**
+- 🌱 I’m currently improving **Flutter skills**
 
 - 💬 Ask me about **React**
 
