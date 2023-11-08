@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, I'm Avaz </h1>
 <h3 align="center"> Talented Software Engineer </h3>
 
-<img align="right" style="border-radius: 15px;" height="339" width="350" src="https://i.pinimg.com/originals/16/fe/7e/16fe7e7fb6eebb3087b6dc418748ee56.gif" alt="">
+<img align="right" style="border-radius:15" height="339" width="350" src="https://i.pinimg.com/originals/16/fe/7e/16fe7e7fb6eebb3087b6dc418748ee56.gif" alt="">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avaz-tech&label=Profile%20views&color=0e75b6&style=flat" alt="avaz-tech" /> </p>
 
