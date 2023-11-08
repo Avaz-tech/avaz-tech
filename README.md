@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **avazravshan0@gmail.com**
 
-- 📄 Visit Personal Portfolio Website to learn more [https://avaz-tech.github.io/my-portfolio/)
+- 📄 Visit Personal Portfolio to learn more -> https://avaz-tech.github.io/my-portfolio/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
