@@ -1,14 +1,3 @@
-<head>
-  <style>
-    .markdown-body img[align=right] {
-      bordr-radius:15px;
-     }
-  </style>
-</head>
-
-
-
-
 <h1 align="center">Hola 👋, I'm Avaz </h1>
 <h3 align="center"> Talented Software Engineer </h3>
 
