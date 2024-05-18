@@ -141,12 +141,12 @@ Others
 
 ## GitHub Stats
 
-<p align="center">
+<p align="center" width="400px">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=avaz-tech&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
-<p align="center">
+<p align="center"  width="50%">
   <img src="https://github-readme-stats.vercel.app/api?username=avaz-tech&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
-<p align="center">
+<p align="center"  width="50%">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=avaz-tech" alt="GitHub Streak Stats" />
 </p>
