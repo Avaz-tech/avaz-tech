@@ -9,11 +9,11 @@
   <a href="https://linkedin.com/in/avazbek-ravshanov" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-avazbek--ravshanov-blue?style=flat&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="https://www.facebook.com/avazbek.ravshanov.9/" target="_blank">
+  <a href="https://www.facebook.com/uchqunovich/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-avazbek--ravshanov-1877F2?style=flat&logo=facebook" alt="Facebook" />
   </a>
   <a href="https://instagram.com/ben_79_62" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-ben__79__62-E4405F?style=flat&logo=instagram" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-avazbekuchqunovich-E4405F?style=flat&logo=instagram" alt="Instagram" />
   </a>
   <a href="https://stackoverflow.com/users/20306881/ben-96" target="_blank">
     <img src="https://img.shields.io/badge/Stack%20Overflow-ben--96-F58025?style=flat&logo=stackoverflow" alt="Stack Overflow" />
