@@ -12,7 +12,7 @@
   <a href="https://www.facebook.com/uchqunovich/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-avazbek--ravshanov-1877F2?style=flat&logo=facebook" alt="Facebook" />
   </a>
-  <a href="https://instagram.com/ben_79_62" target="_blank">
+  <a href="https://instagram.com/avazbekuchqunovich" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-avazbekuchqunovich-E4405F?style=flat&logo=instagram" alt="Instagram" />
   </a>
   <a href="https://stackoverflow.com/users/20306881/ben-96" target="_blank">
