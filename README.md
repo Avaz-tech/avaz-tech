@@ -1,8 +1,8 @@
 <h1 align="center">Hi there, I'm Avaz </h1>
 <h3 align="center"> Talented Software Engineer </h3>
 
-<img align="right" height="339" width="350" src="https://i.pinimg.com/originals/16/fe/7e/16fe7e7fb6eebb3087b6dc418748ee56.gif" alt="">
-<iframe src="https://giphy.com/embed/IauL6LvGNlT3ffhcqq" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/10Clouds-computer-10clouds-10c-IauL6LvGNlT3ffhcqq">via GIPHY</a></p>
+<img align="right" height="339" width="350" src="https://i.pinimg.com/originals/16/fe/7e/16fe7e7fb6eebb3087b6dc418748ee56.gif](https://giphy.com/stickers/10Clouds-computer-10clouds-10c-IauL6LvGNlT3ffhcqq" alt="">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avaz-tech&label=Profile%20views&color=0e75b6&style=flat" alt="avaz-tech" /> </p>
 
 - 🔭 I’m currently working on Entertainment Platfrom
