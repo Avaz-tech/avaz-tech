@@ -1,4 +1,4 @@
-<h2 align="left">Fueled by a passion for technology and innovation, I transform ideas into digital solutions. I’m Avazbek, a software engineer from Uzbekistan, here to code the future.</h2>
+<h3 align="left">Fueled by a passion for technology and innovation, I transform ideas into digital solutions. I’m Avazbek, a software engineer from Uzbekistan, here to code the future.</h3>
 
 ###
 
