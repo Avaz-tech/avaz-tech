@@ -1,152 +1,100 @@
-<h1 align="center">Hi there, I'm Avaz 👋</h1>
-<h3 align="center">Talented Software Engineer</h3>
+<h2 align="left">Hi there! My name is Avazbek </h2>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=avaz-tech&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+###
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/avazbek-ravshanov-ben96/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-avazbek--ravshanov-blue?style=flat&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="https://www.facebook.com/uchqunovich/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-avazbek--ravshanov-1877F2?style=flat&logo=facebook" alt="Facebook" />
-  </a>
-  <a href="https://instagram.com/avazbekuchqunovich" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-avazbekuchqunovich-E4405F?style=flat&logo=instagram" alt="Instagram" />
-  </a>
-  <a href="https://stackoverflow.com/users/20306881/ben-96" target="_blank">
-    <img src="https://img.shields.io/badge/Stack%20Overflow-ben--96-F58025?style=flat&logo=stackoverflow" alt="Stack Overflow" />
-  </a>
-  <a href="https://leetcode.com/Ben_96/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Ben__96-FFA116?style=flat&logo=leetcode" alt="LeetCode" />
-  </a>
-</p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cs" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="redux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" alt="jquery logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="30" alt="webpack logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="30" alt="jira logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="30" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="30" alt="xcode logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="30" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/dart/0175C2" height="30" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/kotlin/7F52FF" height="30" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/npm/CB3837" height="30" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/php/777BB4" height="30" alt="php logo"  />
+</div>
 
-## About Me
+###
 
-- 🔭 I’m currently working on an **Entertainment Platform**
-- 🌱 I’m currently improving my **Team Management Skills**
-- 💬 Ask me about **React**
-- 📫 How to reach me: **avazravshan0@gmail.com**
-- 📄 Learn more about me on my [Personal Portfolio](https://avaz-tech.github.io/my-portfolio/)
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
-## Languages and Tools
+###
 
-Web Development
-<p align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: '10px';">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank">
-    <img src="https://www.svgrepo.com/show/306466/next-dot-js.svg" alt="Next.js" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  </a>
-  <a href="https://www.sanity.io/" target="_blank">
-    <img src="https://www.svgrepo.com/show/354309/sanity.svg" alt="Sanity" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  </a>
-  <a href="https://redux.js.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://jquery.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="jQuery" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/Style/CSS/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-  <a href="https://sass-lang.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com/" target="_blank">
-    <img src="https://www.svgrepo.com/show/353498/bootstrap.svg" alt="Bootstrap" width="40" height="40" color="yellow"/>
-  </a>
-  <a href="https://mui.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="Material UI" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-  </a>
-  <a href="https://webpack.js.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" width="40" height="40"/>
-  </a>
-</p>
-Mobile Development
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
+</div>
 
-<p align="left">
-  <a href="https://flutter.dev/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
-  </a>
-  <a href="https://dart.dev/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/>
-  </a>
-  <a href="https://kotlinlang.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="40" height="40"/>
-  </a>
-</p>
-Development Environment
+###
 
-<p align="left">
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
-  </a>
-  <a href="https://developer.android.com/studio" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android Studio" width="40" height="40"/>
-  </a>
-  <a href="https://developer.apple.com/xcode/" target="_blank">
-    <img src="https://developer.apple.com/assets/elements/icons/xcode-12/xcode-12-96x96_2x.png" alt="Xcode" width="40" height="40"/>
-  </a>
-</p>
-Design
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
+</div>
 
-<p align="left">
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  </a>
-</p>
-Others
-
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://www.postman.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-  </a>
-  <a href="https://www.atlassian.com/software/jira" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="JIRA" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.notion.so/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" alt="Notion" width="40" height="40"/>
-  </a>
-</p>
-
-
-## GitHub Stats
-
-<p align="center" width="400px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=avaz-tech&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-<p align="center"  width="50%">
-  <img src="https://github-readme-stats.vercel.app/api?username=avaz-tech&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-<p align="center"  width="50%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=avaz-tech" alt="GitHub Streak Stats" />
-</p>
+###
