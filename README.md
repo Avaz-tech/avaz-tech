@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/avazbek-ravshanov" target="_blank">
+  <a href="https://www.linkedin.com/in/avazbek-ravshanov-ben96/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-avazbek--ravshanov-blue?style=flat&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="https://www.facebook.com/uchqunovich/" target="_blank">
