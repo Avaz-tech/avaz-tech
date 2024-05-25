@@ -73,11 +73,13 @@
 </div>
 
 ###
- #Deployed Projects -> 
-  1.Personal Portfolio -> 
-  2.Entertainment Platform -> 
-  3.Blog Post Website ->
-  4.E-book ->
+## Deployed Projects
+
+1. [Personal Portfolio](https://your-portfolio-link.com)
+2. [Entertainment Platform](https://your-entertainment-platform-link.com)
+3. [Blog Post Website](https://your-blog-post-website-link.com)
+4. [E-book](https://your-ebook-link.com)
+
 ###
 
 
