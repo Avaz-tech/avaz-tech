@@ -75,9 +75,9 @@
 ###
 ## Deployed Projects
 
-1. [Personal Portfolio](https://your-portfolio-link.com)
-2. [Entertainment Platform](https://your-entertainment-platform-link.com)
-3. [Blog Post Website](https://your-blog-post-website-link.com)
+1. [Personal Portfolio](https://avaz-tech.github.io/personal-portfolio/)
+2. [Entertainment Platform](https://entertainment-website-pi.vercel.app/)
+3. [Blog Post Website](https://devshurdle.vercel.app/)
 4. [E-book](https://your-ebook-link.com)
 
 ###
