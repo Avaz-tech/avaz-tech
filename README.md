@@ -73,6 +73,13 @@
 </div>
 
 ###
+ #Deployed Projects -> 
+  1.Personal Portfolio -> 
+  2.Entertainment Platform -> 
+  3.Blog Post Website ->
+  4.E-book ->
+###
+
 
 <div align="center">
   <a href="https://youtube.com" target="_blank">
