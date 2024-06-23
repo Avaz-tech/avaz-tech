@@ -75,7 +75,7 @@
 ###
 ## Deployed Projects
 
-1. [Personal Portfolio](https://avaz-tech.github.io/personal-portfolio/)
+1. [Personal Portfolio](https://avaz-new-portfolio.vercel.app/)
 2. [E-Commerce Admin Page](https://ecommerce-dashboard-mocha.vercel.app/stacked)
 3. [Entertainment Platform](https://uflicks-avaztechs-projects.vercel.app/index.html)
 4. [Blog Post Website](https://devshurdle.vercel.app/)
