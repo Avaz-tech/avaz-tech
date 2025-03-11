@@ -73,16 +73,6 @@
 </div>
 
 ###
-## Deployed Projects
-
-1. [Personal Portfolio](https://avaz-new-portfolio.vercel.app/)
-2. [E-Commerce Admin Page](https://ecommerce-dashboard-mocha.vercel.app/stacked)
-3. [Entertainment Platform](https://uflicks-avaztechs-projects.vercel.app/index.html)
-4. [Blog Post Website](https://devshurdle.vercel.app/)
-   
-
-
-###
 
 
 <div align="center">
@@ -113,10 +103,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Avaz-tech&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=Avaz-tech&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/Avaz-tech/Avaz-tech/output/snake.svg" alt="Snake animation" />
 
 ###
 
